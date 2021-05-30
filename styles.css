@@ -1,0 +1,25 @@
+
+/*--------------------------------------------------------------------*/
+/*general*/
+
+img {
+   max-width: 80%;
+   height: auto;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-top: 1rem;
+   border: 1px solid black;
+}
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+hr{
+    border-width:0px;
+    height:5px;
+    color:gray;
+    background-color:black;
+    margin-top: 5rem;
+}
